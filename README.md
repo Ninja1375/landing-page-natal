@@ -4,8 +4,7 @@ Uma landing page temática de Natal com um design moderno e interativo, que incl
 
 ---
 
-## 🖼️ Demonstração  
-Adicione aqui um link para a demonstração ao vivo ou uma captura de tela do projeto.
+## 🖼️ Demonstração
 
 ---
 
@@ -20,8 +19,8 @@ Adicione aqui um link para a demonstração ao vivo ou uma captura de tela do pr
 
 ## 🛠️ Tecnologias Utilizadas  
 
-- **HTML5**  
-- **CSS3** (com variáveis CSS e design responsivo)  
+- **HTML**  
+- **CSS**
 - **JavaScript**  
 
 ---
@@ -36,7 +35,6 @@ landing-page-natal/
 ├── assets/           # Imagens, ícones e outros recursos  
 │   ├── img/          # Arquivos de imagem utilizados no projeto  
 │   └── ... 
-
 ```
 ## 📜 Como Utilizar  
 
