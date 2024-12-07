@@ -43,15 +43,15 @@ landing-page-natal/
    git clone https://github.com/Ninja1375/landing-page-natal.git
 
 2. **Acesse o diretório do projeto**:
-
+   ```bash
 cd landing-page-natal 
 
-Abra o arquivo ```index.html``` em um navegador:
+3. **Abra o arquivo ```index.html``` em um navegador**:
 Basta clicar duas vezes no arquivo ou utilizar uma extensão como Live Server no VS Code.
 
 ## 🌟 Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou novas funcionalidades.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um ***pull request*** com melhorias ou novas funcionalidades.
 
 ## 🔗 Links Úteis
 
