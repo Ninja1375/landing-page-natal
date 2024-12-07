@@ -35,8 +35,9 @@ landing-page-natal/
 ├── script.js         # Lógica interativa e contagem regressiva  
 ├── assets/           # Imagens, ícones e outros recursos  
 │   ├── img/          # Arquivos de imagem utilizados no projeto  
-│   └── ...  
+│   └── ... 
 
+```
 ## 📜 Como Utilizar  
 
 1. **Clone o repositório**:  
