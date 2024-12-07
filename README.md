@@ -62,4 +62,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## 📄 Licença
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE] para mais informações.
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/Ninja1375/landing-page-natal/blob/main/LICENSE) para mais informações.
