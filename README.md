@@ -36,3 +36,9 @@ landing-page-natal/
 ├── assets/           # Imagens, ícones e outros recursos  
 │   ├── img/          # Arquivos de imagem utilizados no projeto  
 │   └── ...  
+
+## 📜 Como Utilizar  
+
+1. **Clone o repositório**:  
+   ```bash  
+   git clone https://github.com/seu-usuario/landing-page-natal.git  
