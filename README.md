@@ -44,9 +44,10 @@ landing-page-natal/
 
 2. **Acesse o diretório do projeto**:
    ```bash
-cd landing-page-natal 
+   cd landing-page-natal
 
 3. **Abra o arquivo ```index.html``` em um navegador**:
+
 Basta clicar duas vezes no arquivo ou utilizar uma extensão como Live Server no VS Code.
 
 ## 🌟 Contribuições
