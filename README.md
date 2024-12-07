@@ -56,9 +56,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## 🔗 Links Úteis
 
-[Remix Icons](https://remixicon.com/) - Ícones gratuitos usados no projeto. 
+- [Remix Icons](https://remixicon.com/) - Ícones gratuitos usados no projeto. 
 
-[Google Fonts] - Tipografias modernas e gratuitas.
+- [Google Fonts](https://fonts.google.com/) - Tipografias modernas e gratuitas.
 
 ## 📄 Licença
 
