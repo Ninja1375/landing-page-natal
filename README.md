@@ -42,4 +42,23 @@ landing-page-natal/
 
 1. **Clone o repositório**:  
    ```bash  
-   git clone https://github.com/seu-usuario/landing-page-natal.git  
+   git clone https://github.com/seu-usuario/landing-page-natal.git
+
+Acesse o diretório do projeto:
+
+bash
+
+Copiar código
+
+cd landing-page-natal 
+
+Abra o arquivo index.html em um navegador:
+Basta clicar duas vezes no arquivo ou utilizar uma extensão como Live Server no VS Code.
+
+🌟 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou novas funcionalidades.
+
+🔗 Links ÚteisRemix Icons - Ícones gratuitos usados no projeto.Google Fonts - Tipografias modernas e gratuitas.📄 Licença
+
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
