@@ -56,10 +56,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## 🔗 Links Úteis
 
-Remix Icons - Ícones gratuitos usados no projeto. 
+[Remix Icons](https://remixicon.com/) - Ícones gratuitos usados no projeto. 
 
-Google Fonts - Tipografias modernas e gratuitas.
+[Google Fonts] - Tipografias modernas e gratuitas.
 
 ## 📄 Licença
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE] para mais informações.
