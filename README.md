@@ -8,6 +8,8 @@ Uma landing page temática de Natal com um design moderno e interativo, que incl
 
 **[Landing Page de Natal](https://ninja1375.github.io/landing-page-natal/)**
 
+![Landing Page de Natal ](https://github.com/user-attachments/assets/6f9604ec-f172-4fb1-96bb-8133425e97ec)
+
 ---
 
 ## 🚀 Funcionalidades  
