@@ -62,7 +62,7 @@ const christmasCountdown = () => {
     if(currentMonth == 12 && currentDay == 25) {
         titleData.style.display = 'none';
         msgChristmas.style.display = 'block';
-        msgChristmas.innerHTML = 'Today is Dec 25, Merry Christmas'
+        msgChristmas.innerHTML = 'Hoje é 25 de Dezembro , Feliz Natal!'
     }
 
     // Mostrar dias restantes e remover mensagem de Natal
